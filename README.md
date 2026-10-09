@@ -1,4 +1,4 @@
-# Pixel Perfect Replica
+Made BY Manish,Sharad,Abhay
 
 Implement exactly the screenshot and nothing else
 
