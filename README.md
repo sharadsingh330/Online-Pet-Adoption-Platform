@@ -4,7 +4,7 @@ Implement exactly the screenshot and nothing else
 
 
 
-## Build with Lovable
+## Build with Our team
 
 
 
